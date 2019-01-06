@@ -1,0 +1,10 @@
+body, p
+{
+	font-family: arial;
+	/*text-align: center;*/
+}
+
+input, textarea
+{
+	font-family: arial;
+}
